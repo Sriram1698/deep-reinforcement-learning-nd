@@ -1,1 +1,1 @@
-# deep-reinforcement-learning-nd
+# Deep Reinforcement Learning
